@@ -1,0 +1,29 @@
+.container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    background-color: #e74c3c;
+    color: white;
+    padding: 20px;
+  }
+  
+  .nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .nav a {
+    color: #ecf0f1;
+    text-decoration: none;
+  }
+  
+  .nav a:hover {
+    color: #3498db;
+  }
+  
+  .main {
+    margin-top: 50px;
+  }
